@@ -1,6 +1,6 @@
 # Chess Club Score Calculator 
 
-This is a Python script I made for my chess club to calculate rankings and scores. It writes the stats to an Excel file. Will work on sorting the dictionary by the values soon, but this is finished!
+This is a Python script I made for my friends in chess club to calculate rankings and scores. It writes the stats to an Excel file. Will work on sorting the dictionary by the values soon, but this is finished!
 
 # Requirements
 
